@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="bishal.jpg" alt="cover" style="width:100%; border-radius: 10px;" />
+  <img src="Bishal.jpg" alt="cover" style="width:100%; border-radius: 10px;" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Bishal Kumar Parida</h1>
 <h3 align="center">Full Stack Java Developer | Spring Boot | JSP | REST APIs</h3>
 
