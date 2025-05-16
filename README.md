@@ -1,102 +1,97 @@
-# 👋 Hi, I'm Bishal Kumar Parida
+<h1 align="center">Hi 👋, I'm Bishal Kumar Parida</h1>
+<h3 align="center">Full Stack Java Developer | Spring Boot | JSP | REST APIs</h3>
 
-🎓 B.Tech in Computer Science & Engineering (2021–2024)  
-📍 Bengaluru, Karnataka, India  
-📧 paridabishal982@gmail.com  
-📞 +91 7008645200  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bishal-kumar-parida-830197199/)
-[![GitHub](https://img.shields.io/badge/GitHub-B766--p-000?style=flat&logo=github)](https://github.com/B766-p?tab=repositories)
+<p align="center">
+  <a href="https://github.com/B766-p"><img src="https://img.shields.io/github/followers/B766-p?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/bishal-kumar-parida-830197199/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+</p>
 
 ---
 
-## 💼 Career Objective
-Actively pursuing opportunities at reputable companies where I can contribute innovative ideas, enhance my technical skills, and grow professionally under experienced mentorship.
+### 👨‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering (2021 – 2024), Trident Academy of Technology  
+- 💡 I love building backend systems, REST APIs, and interactive web applications  
+- 🌱 Currently enhancing my skills in Full Stack Development and React.js  
+- 💬 Ask me about **Java, Spring Boot, JSP, REST APIs, and PostgreSQL**
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 Tech Stack
 
 **Languages & Frameworks:**  
-Java (Core & Advanced), JDBC, JSP, Servlet, HTML, CSS, JavaScript, SQL (Oracle)  
+`Java (Core & Advanced)` `JSP` `Servlet` `JDBC` `HTML` `CSS` `JavaScript` `SQL (Oracle)`  
 
-**Spring Boot:**  
-Spring Core, Spring MVC, Spring Boot  
-
-**Hibernate & ORM:**  
-JPA, HQL, JPQL, Association Mapping  
-
-**Frontend:**  
-HTML, CSS, JavaScript, React.js  
+**Frameworks & Tools:**  
+`Spring Boot` `Spring MVC` `Hibernate (JPA, HQL)` `React.js`  
 
 **Database:**  
-Oracle, PostgreSQL
+`Oracle` `PostgreSQL`  
+
+**Concepts:**  
+`OOPs` `Exception Handling` `File Handling` `Collections` `Threading` `SQL Joins & Functions`
 
 ---
 
-## 🔨 Projects
-
-### 🚀 [Springboot CRUD Operations REST API](https://github.com/B766-p/Springboot_crud_operations_RestApi)  
-A RESTful API with layered architecture and DB integration.
-
-### 👨‍🎓 [Student CRUD - Spring Boot + PostgreSQL](https://github.com/B766-p/Student_Crud_SpringBoot_postgressql)  
-### 📦 [Shipment CRUD - Spring Boot](https://github.com/B766-p/Shipment-Crud-spring-Boot)  
-### 👔 [Employee CRUD - Spring Boot + PostgreSQL](https://github.com/B766-p/Employee_Crud_SpringBOOt_postgressql)
-
-### 🛒 [E-Commerce Website (B-Mart)](https://github.com/B766-p/B-Mart)  
-Java Servlets based e-commerce platform with multi-role dashboards (admin/shop/delivery/user).
-
-### 📝 [MCQ Quiz App](https://github.com/B766-p/MCQ-Quiz-App)  
-System with separate admin/student panels.
-
-### 🤖 [Chatbot](https://github.com/B766-p/Chatbot)  
-Auto-response chatbot using HTML, CSS, and JS.
-
-### 🧑‍🏫 [Student Essentials](https://github.com/B766-p/Student-Essentials)  
-Connects students, teachers, and admin.
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B766-p&show_icons=true&theme=radical" alt="Bishal Kumar Parida GitHub Stats" />
+</p>
 
 ---
 
-## 💼 Experience
+### 🔧 Projects Showcase
 
-**Full Stack Developer Intern** – Cisco ThingQbator (Jul–Nov 2022)  
-• Developed Smart Garbage Collection System  
-• Recognized with a Certificate of Excellence from NASSCOM Foundation
-
-**Student Body Member** – NASSCOM Foundation (2023–2024)  
-• Actively supported Cisco ThingQbator  
-• Recognized by NASSCOM leaders for contributions
-
-**Participant** – Android Industry Oriented Training, Trident Academy (2023)  
-**Participant** – IDE Bootcamp, IIT Bhubaneswar (2023)
-
----
-
-## 🏆 Achievements
-
-- 🎖️ Selected for **Cohort-6** by NASSCOM Foundation (2024)  
-- ⭐ **Shining Star Award** – Trident Academy (2022–23)  
-- 🥈 2nd Place – National Hackathon at MLRIT (2023)
+| Project | Tech Stack | Description | Live Link |
+|--------|------------|-------------|-----------|
+| **Springboot CRUD API** | Java, Spring Boot | Full RESTful API with layered architecture | [GitHub](https://github.com/B766-p/Springboot_crud_operations_RestApi) |
+| **Student CRUD** | Spring Boot + PostgreSQL | Simple student management API | [GitHub](https://github.com/B766-p/Student_Crud_SpringBoot_postgressql) |
+| **Shipment CRUD** | Spring Boot | Shipment management system | [GitHub](https://github.com/B766-p/Shipment-Crud-spring-Boot) |
+| **Employee CRUD** | Spring Boot + PostgreSQL | Employee record management | [GitHub](https://github.com/B766-p/Employee_Crud_SpringBOOt_postgressql) |
+| **B-Mart (E-Commerce)** | Java Servlet, JSP | Multi-role e-commerce web portal | [Live Site](https://b766-p.github.io/Bmart/) |
+| **MCQ Quiz App** | HTML, CSS, JS | MCQ app with admin & student panels | [Live Site](https://b766-p.github.io/Mcq_Quizz_app/) |
+| **Chatbot** | HTML, CSS, JS | Auto-response chatbot | [Live Site](https://b766-p.github.io/CHARTBOAT/) |
+| **Student Essentials** | Web | Connects students, teachers, admin | [Live Site](https://b766-p.github.io/Student_Essential/) |
 
 ---
 
-## 🌐 Languages
+### 💼 Experience
 
-- Odia (Native)  
-- Hindi (Fluent)  
-- English (Professional)  
+- **Full Stack Developer Intern** – *Cisco ThingQbator*  
+  _Jul–Nov 2022 | Smart Garbage Collection System | Certificate of Excellence_
 
----
+- **Student Body Member** – *NASSCOM Foundation*  
+  _Jul 2023 – Mar 2024 | Actively supported ThingQbator Program_
 
-## 🤝 Soft Skills
+- **Android Development Trainee** – *Trident Academy*  
+  _Aug–Sep 2023 | Learned Android architecture and app development_
 
-- Teamwork & Leadership  
-- Time Management  
-- Communication  
-- Flexibility  
-- Continuous Improvement Mindset  
+- **Innovation Bootcamp** – *IIT Bhubaneswar*  
+  _Jun 2023 | MIC & AICTE IDE Bootcamp participant_
 
 ---
 
-_Thanks for visiting my profile! Let's connect and build something amazing._ 🚀
+### 🏆 Achievements
 
+- ⭐ **Selected for NASSCOM Cohort-6** (2024)  
+- 🥈 **2nd Place – National Hackathon @ MLRIT** (2023)  
+- 🌟 **Shining Star Award – Trident Academy** (2022–23)
+
+---
+
+### 🌍 Languages
+
+- **Odia:** Native  
+- **Hindi:** Fluent  
+- **English:** Professional
+
+---
+
+### 🤝 Soft Skills
+
+`Teamwork` | `Leadership` | `Time Management` | `Adaptability` | `Continuous Learning`
+
+---
+
+<p align="center">
+  <i>“Thanks for visiting! Let’s connect and build something awesome together.”</i> 🚀
+</p>
