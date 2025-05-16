@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Bishal.jpg" alt="cover" style="width:100%; border-radius: 10px;" />
+  <img src="Bishal.jpg" alt="cover" style="width:20; border-radius: 10;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bishal Kumar Parida</h1>
