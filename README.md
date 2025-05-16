@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/B766-p/B766-p/main/assets/cover.jpg" alt="cover" style="width:100%; border-radius: 10px;" />
+  <img src="bishal.jpg" alt="cover" style="width:100%; border-radius: 10px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Bishal Kumar Parida</h1>
 <h3 align="center">Full Stack Java Developer | Spring Boot | JSP | REST APIs</h3>
